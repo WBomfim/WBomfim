@@ -100,8 +100,6 @@
   <p align="center"><img width=495 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="wbomfim" /></p>
 
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wbomfim&show_icons=true&theme=highcontrast" alt="wbomfim" /></p>
-
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wbomfim&theme=highcontrast" alt="wbomfim" /></p>
 </section>
   
 </br>
