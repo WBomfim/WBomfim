@@ -103,7 +103,3 @@
 </section>
   
 </br>
-  
-<footer>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=wbomfim&style=for-the-badge&color=5DC0C7" alt="wbomfim" /></p>
-</footer>
