@@ -1,5 +1,5 @@
 <header>
-  <h1 align="center">Bem vindo ao meu perfil! :smiley:</h1>
+  <h1 align="center">Bem vindo ao meu GitHub! :smiley:</h1>
 
   <h3 align="center">Meu nome é Willian Bomfim, sou desenvolvedor fullstack e apaixonado por tecnologia.</h3>
 </header>
