@@ -26,7 +26,7 @@
   <h2 align="center">Sobre mim:</h2>
  
   <p align="center">
-    Vim da área automobilistica onde atuei no setor de qualidade e atendimento ao cliente, trago comigo uma boa experiência com resolução de problemas e creio que isso me auxiliará sempre nos caminhos que irei trilhar, atualmente estudo na trybe e em breve estarei concluindo minha formação como desenvolvedor fullstack, acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
+    Vim da área automobilística onde atuei no setor de qualidade e atendimento ao cliente. Trago comigo uma boa experiência com resolução de problemas e creio que isso me auxiliará sempre nos caminhos que irei trilhar. Atualmente estudo na Trybe e em breve estarei concluindo minha formação como desenvolvedor FullStack. Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
   </p>
 </section>
 
