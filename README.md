@@ -12,7 +12,7 @@
   </a>
 
   <a href="mailto:willianbomfim@hotmail.com">
-  <img width=292 src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <img width=162 src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 
   <a href="https://api.whatsapp.com/send?phone=5541996624291">
@@ -26,7 +26,7 @@
   <h2 align="center">Sobre mim:</h2>
  
   <p align="center">
-    Vim da área automobilística onde atuei no setor de qualidade e atendimento ao cliente. Trago comigo uma boa experiência com resolução de problemas e creio que isso me auxiliará sempre nos caminhos que irei trilhar. Atualmente estudo na Trybe e em breve estarei concluindo minha formação como desenvolvedor FullStack. Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
+    Vim da indústria automobilística onde atuei no setor de qualidade e atendimento ao cliente. Trago comigo uma boa experiência com resolução de problemas e creio que isso me auxiliará sempre nos caminhos que irei trilhar. Atualmente estudo na Trybe e em breve estarei concluindo minha formação como desenvolvedor web FullStack. Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
   </p>
 </section>
 
@@ -98,9 +98,10 @@
 </br>
 
 <section>
-  <p align="center"><img width=495 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=6&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" /></p>
-
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" /></p>
+  <p align="center">
+    <img width=414 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=6&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" />
+  </p>
 </section>
   
 </br>
