@@ -98,9 +98,9 @@
 </br>
 
 <section>
-  <p align="center"><img width=495 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="wbomfim" /></p>
+  <p align="center"><img width=495 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=6&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" /></p>
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wbomfim&show_icons=true&theme=highcontrast" alt="wbomfim" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" /></p>
 </section>
   
 </br>
