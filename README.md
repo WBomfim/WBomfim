@@ -1,7 +1,7 @@
 <header>
   <h1 align="center">Bem vindo ao meu GitHub! :smiley:</h1>
 
-  <h3 align="center">Meu nome é Willian Bomfim, sou desenvolvedor fullstack e apaixonado por tecnologia.</h3>
+  <h3 align="center">Meu nome é Willian Bomfim, sou Desenvolvedor Full-Stack.</h3>
 </header>
 
 </br>
@@ -25,8 +25,12 @@
 <section>
   <h2 align="center">Sobre mim:</h2>
  
-  <p align="center">
-    Vim da indústria automobilística onde atuei no setor de qualidade e atendimento ao cliente. Trago comigo uma boa experiência com resolução de problemas e creio que isso me auxiliará sempre nos caminhos que irei trilhar. Atualmente estudo na Trybe e em breve estarei concluindo minha formação como desenvolvedor web FullStack. Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
+  <p align="justify">
+    Vim da indústria automobilística onde atuei no setor de qualidade e atendimento ao cliente. Trago comigo uma boa experiência com resoluções de problemas e creio que isso me auxiliará sempre nos caminhos que irei trilhar.
+    <br />
+    Atualmente estudo na Trybe e em breve estarei concluindo minha formação como Desenvolvedor Web Full-Stack. Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
+    <br />
+    No momento estou buscando uma oportunidade como desenvolvedor em um ambiente colaborativo e aberto a novas ideias, onde os desafios gerem valor na vida das pessoas e o prazer de superar um desafio vá além do código escrito.
   </p>
 </section>
 
@@ -60,6 +64,7 @@
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div>
 
   </br>
@@ -86,7 +91,6 @@
     <img src="https://img.shields.io/badge/Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
@@ -98,13 +102,7 @@
 </br>
 </br>
 
-<section>
-  <p align="center">
-    <img width=495 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=6&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" />
-  </p>
+<section align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=6&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" />
+    <img width=418 src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" />
 </section>
-  
-</br>
