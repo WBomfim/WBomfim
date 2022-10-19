@@ -28,7 +28,16 @@
   <p align="justify">
     Vim da indústria automobilística onde atuei no setor de qualidade e atendimento ao cliente. Trago comigo uma boa experiência com resoluções de problemas e creio que isso me auxiliará sempre nos caminhos que irei trilhar.
     <br />
-    Atualmente estudo na Trybe e em breve estarei concluindo minha formação como Desenvolvedor Web Full-Stack. Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
+    <br />
+    Aprendi que dificilmente se vai longe sozinho, por isso prezo muito pela confiança e colaboração, busco sempre a confiança das pessoas, dessa forma posso me relacionar e expor ideias abertamente e assim somar forças com objetivos claros que tragam satisfação para todos. 
+    <br />
+    <br />
+    Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
+Encontrei na tecnologia o desafio de estar sempre aprendendo, aplicando coisas novas e vivendo um novo desafio a cada dia, isso me motiva e me traz satisfação a cada superação.
+    <br />
+    <br />
+    Atualmente estudo na Trybe e em breve estarei concluindo minha formação como Desenvolvedor Web Full-Stack. Tenho novas stacks no radar para aprender e desejo por isso em prática na sequência, afinal, conhecimento nunca é de mais e os desafios não podem parar.
+    <br />
     <br />
     No momento estou buscando uma oportunidade como desenvolvedor em um ambiente colaborativo e aberto a novas ideias, onde os desafios gerem valor na vida das pessoas e o prazer de superar um desafio vá além do código escrito.
   </p>
