@@ -1,7 +1,7 @@
 <header>
   <h1 align="center">Bem vindo ao meu GitHub! :smiley:</h1>
 
-  <h3 align="center">Meu nome é Willian Bomfim, sou Desenvolvedor Full-Stack.</h3>
+  <h3 align="center">Meu nome é Willian Bomfim e sou Desenvolvedor Full-Stack. 👨‍💻</h3>
 </header>
 
 </br>
@@ -23,30 +23,30 @@
 </br>
 
 <section>
-  <h2 align="center">Sobre mim:</h2>
+  <h2 align="center">🙋‍♂️ Sobre mim:</h2>
  
   <p align="justify">
-    Vim da indústria automobilística onde atuei no setor de qualidade e atendimento ao cliente. Trago comigo uma boa experiência com resoluções de problemas e creio que isso me auxiliará sempre nos caminhos que irei trilhar.
+    📢 Vim da indústria automobilística onde atuei no setor de qualidade e atendimento ao cliente. Trago comigo uma boa experiência com resoluções de problemas e creio que isso me auxiliará sempre nos caminhos que irei trilhar.
     <br />
     <br />
-    Aprendi que dificilmente se vai longe sozinho, por isso prezo muito pela confiança e colaboração, busco sempre a confiança das pessoas, dessa forma posso me relacionar e expor ideias abertamente e assim somar forças com objetivos claros que tragam satisfação para todos. 
+    🤝 Aprendi que dificilmente se vai longe sozinho, por isso prezo muito pela confiança e colaboração, busco sempre a confiança das pessoas, dessa forma posso me relacionar e expor ideias abertamente e assim somar forças com objetivos claros que tragam satisfação para todos. 
     <br />
     <br />
-    Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
+    🏋️‍♂️ Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
 Encontrei na tecnologia o desafio de estar sempre aprendendo, aplicando coisas novas e vivendo um novo desafio a cada dia, isso me motiva e me traz satisfação a cada superação.
     <br />
     <br />
-    Atualmente estudo na Trybe e em breve estarei concluindo minha formação como Desenvolvedor Web Full-Stack. Tenho novas stacks no radar para aprender e desejo por isso em prática na sequência, afinal, conhecimento nunca é de mais e os desafios não podem parar.
+    📚️ Atualmente estudo na Trybe e em breve estarei concluindo minha formação como Desenvolvedor Web Full-Stack. Tenho novas stacks no radar para aprender e desejo por isso em prática na sequência, afinal, conhecimento nunca é de mais e os desafios não podem parar.
     <br />
     <br />
-    No momento estou buscando uma oportunidade como desenvolvedor em um ambiente colaborativo e aberto a novas ideias, onde os desafios gerem valor na vida das pessoas e o prazer de superar um desafio vá além do código escrito.
+    🚀 No momento estou buscando uma oportunidade como desenvolvedor em um ambiente colaborativo e aberto a novas ideias, onde os desafios gerem valor na vida das pessoas e o prazer de superar um desafio vá além do código escrito.
   </p>
 </section>
 
 </br>
 
 <section>
-  <h2 align="center">Tecnologias e Ferramentas que utilizo:</h2>
+  <h2 align="center">💻️ Tecnologias e Ferramentas que utilizo:</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -72,7 +72,7 @@ Encontrei na tecnologia o desafio de estar sempre aprendendo, aplicando coisas n
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mongoose-323330?style=for-the-badge&logo=sinon" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div>
 
