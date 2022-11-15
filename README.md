@@ -26,20 +26,19 @@
   <h2 align="center">🙋‍♂️ Sobre mim:</h2>
  
   <p align="justify">
-    📢 Vim da indústria automobilística onde atuei no setor de qualidade e atendimento ao cliente. Trago comigo uma boa experiência com resoluções de problemas e creio que isso me auxiliará sempre nos caminhos que irei trilhar.
+    🚀 Sou apaixonado por tecnologia, e foi nela que encontrei a motivação para estar sempre aprendendo, aplicando coisas novas e vivendo uma nova experiência a cada dia.
     <br />
     <br />
-    🤝 Aprendi que dificilmente se vai longe sozinho, por isso prezo muito pela confiança e colaboração, busco sempre a confiança das pessoas, dessa forma posso me relacionar e expor ideias abertamente e assim somar forças com objetivos claros que tragam satisfação para todos. 
+    📢 Gosto e estou sempre aberto a novos aprendizados e desafios, tenho muita satisfação em superá-los e me sinto motivado ao me comprometer com algo desafiador. Sou pró-ativo, criativo, direto e dinâmico, tenho boa comunicação e me relaciono muito bem com as pessoas, gosto e assumo a liderança sempre que necessário e busco estabelecer relações de confiança com todos a minha volta. 
+    <br />
+    <br />
+    🤝 Aprendi que dificilmente se vai longe sozinho, por isso prezo muito pela confiança e colaboração, dessa forma posso me relacionar e expor ideias abertamente e assim somar forças com objetivos claros que tragam satisfação para todos. 
     <br />
     <br />
     🏋️‍♂️ Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
-Encontrei na tecnologia o desafio de estar sempre aprendendo, aplicando coisas novas e vivendo um novo desafio a cada dia, isso me motiva e me traz satisfação a cada superação.
     <br />
     <br />
-    📚️ Atualmente estudo na Trybe e em breve estarei concluindo minha formação como Desenvolvedor Web Full-Stack. Tenho novas stacks no radar para aprender e desejo por isso em prática na sequência, afinal, conhecimento nunca é de mais e os desafios não podem parar.
-    <br />
-    <br />
-    🚀 No momento estou buscando uma oportunidade como desenvolvedor em um ambiente colaborativo e aberto a novas ideias, onde os desafios gerem valor na vida das pessoas e o prazer de superar um desafio vá além do código escrito.
+    📚️ Atualmente estudo desenvolvimento web full-stack na Trybe. Tenho novas stacks no radar para aprender e desejo por isso em prática na sequência, afinal, conhecimento nunca é de mais e os desafios não podem parar.
   </p>
 </section>
 
@@ -50,8 +49,6 @@ Encontrei na tecnologia o desafio de estar sempre aprendendo, aplicando coisas n
   <div align="center">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </div>
@@ -61,6 +58,8 @@ Encontrei na tecnologia o desafio de estar sempre aprendendo, aplicando coisas n
   <div align="center">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </div>
 
@@ -91,20 +90,12 @@ Encontrei na tecnologia o desafio de estar sempre aprendendo, aplicando coisas n
   <div align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
-    <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   </div>
 </section>
 
