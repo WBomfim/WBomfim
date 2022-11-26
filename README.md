@@ -1,11 +1,13 @@
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 </br>
+</br>
 
 <header>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right">
   <h1 align="start">Bem vindo ao meu GitHub! :smiley: </h1>
-  <h3 align="start">👨‍💻 Meu nome é Willian Bomfim e sou Desenvolvedor Full-Stack.</h3>
+  <h3 align="start">👤 Meu nome é Willian Bomfim</h3>
+  <h3 align="start">👨‍💻 Sou Desenvolvedor Full-Stack</h3>
 </header>
 
 <section align="start">
@@ -28,7 +30,6 @@
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 </br>
-
 
 <section>
   <h2 align="start">🙋‍♂️ Sobre mim: </h2>
@@ -115,8 +116,8 @@
 
 <section align="start">
   <h2 align="start">📊 Minhas estatísticas: </h2>
-  <img width=418 src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=6&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" />
+  <img width=470 src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=6&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" />
 </section>
 
 </br>
