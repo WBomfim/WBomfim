@@ -4,25 +4,25 @@
 </br>
 
 <header>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right">
-  <h1 align="start">Bem vindo ao meu GitHub! :smiley: </h1>
-  <h3 align="start">👤 Meu nome é Willian Bomfim</h3>
+  <h1 align="start">Bem vindo ao meu GitHub! :smiley: <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right"></h1>
+  <h3 align="start">👤 Meu nome é Willian Bomfim </h3>
   <h3 align="start">👨‍💻 Sou Desenvolvedor Full-Stack</h3>
 </header>
 
 <section align="start">
+  
   <h3>📞 Meus contatos:</h3>
   
   <a href="https://www.linkedin.com/in/willianbomfim">
-  <img width=90 src="./images/Linkedin.png" alt="linkedin logo" />
+  <img width=80 src="./images/Linkedin.png" alt="linkedin logo" />
   </a>
   
   <a href="mailto:willianbomfim@hotmail.com">
-  <img width=90 src="./images/Email.png" />
+  <img width=80 src="./images/Email.png" />
   </a>
 
   <a href="https://api.whatsapp.com/send?phone=5541996624291">
-  <img width=90 src="./images/WhatsApp.png" />
+  <img width=80 src="./images/WhatsApp.png" />
   </a>
 </section>
 
