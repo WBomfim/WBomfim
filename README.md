@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+
 <header>
   <h1 align="start">Bem vindo ao meu GitHub! :smiley: </h1>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right">
@@ -6,7 +8,6 @@
 </header>
 
 <section align="start">
-  
   <h3>📞 Meus contatos:</h3>
   
   <a href="https://www.linkedin.com/in/willianbomfim">
@@ -26,8 +27,6 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-</br>
-
 <section>
   <h2 align="start">🙋‍♂️ Sobre mim: </h2>
   <p align="justify">
@@ -44,11 +43,7 @@
   </p>
 </section>
 
-</br>
-
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
-
-</br>
 
 <section>
   <h2 align="start">💻️ Tecnologias e Ferramentas:</h2>
@@ -108,8 +103,6 @@
 </br>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-
-</br>
 
 <section align="start">
   <h2 align="start">📊 Minhas estatísticas: </h2>
