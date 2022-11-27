@@ -1,5 +1,3 @@
-</br>
-
 <header>
   <h1 align="start">Bem vindo ao meu GitHub! :smiley: <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right"></h1>
   <h3 align="start">👤 Meu nome é Willian Bomfim </h3>
