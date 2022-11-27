@@ -12,16 +12,17 @@
 
 <section align="start">
   <h3>📞 Meus contatos:</h3>
+  
   <a href="https://www.linkedin.com/in/willianbomfim">
-  <img width=170 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
+  <img width=90 src="./images/Linkedin.png" alt="linkedin logo" />
   </a>
-
+  
   <a href="mailto:willianbomfim@hotmail.com">
-  <img width=162 src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <img width=90 src="./images/Email.png" />
   </a>
 
   <a href="https://api.whatsapp.com/send?phone=5541996624291">
-  <img width=178 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img width=90 src="./images/WhatsApp.png" />
   </a>
 </section>
 
