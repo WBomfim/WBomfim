@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
-
 <header>
   <h1 align="start">Bem vindo ao meu GitHub! :smiley: </h1>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right">
