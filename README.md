@@ -10,15 +10,15 @@
   <h3>📞 Meus contatos:</h3>
   
   <a href="https://www.linkedin.com/in/willianbomfim">
-  <img width=60 src="./images/Linkedin.png" alt="linkedin logo" />
+  <img width=65 src="./images/Linkedin.png" alt="linkedin logo" />
   </a>
   
   <a href="mailto:willianbomfim@hotmail.com">
-  <img width=60 src="./images/Email.png" />
+  <img width=65 src="./images/Email.png" />
   </a>
 
   <a href="https://api.whatsapp.com/send?phone=5541996624291">
-  <img width=60 src="./images/WhatsApp.png" />
+  <img width=65 src="./images/WhatsApp.png" />
   </a>
 </section>
 
