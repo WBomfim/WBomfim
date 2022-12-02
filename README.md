@@ -23,8 +23,6 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-</br>
-
 <section>
   <h2 align="start">🙋‍♂️ Sobre mim: </h2>
   <p align="justify">
@@ -42,8 +40,6 @@
 </section>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
-
-</br>
 
 <section>
   <h2 align="start">💻️ Tecnologias e ferramentas:</h2>
@@ -100,14 +96,16 @@
   </div>
 </section>
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-
 </br>
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 <section align="start">
   <h2 align="start">📊 Minhas estatísticas: </h2>
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" />
   <img width=377 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=6&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" />
 </section>
+
+</br>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
