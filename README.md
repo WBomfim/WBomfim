@@ -21,9 +21,9 @@
   </a>
 </section>
 
-</br>
-
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+
+</br>
 
 <section>
   <h2 align="start">🙋‍♂️ Sobre mim: </h2>
@@ -37,11 +37,13 @@
     🏋️‍♂️ Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
     <br />
     <br />
-    📚️ Atualmente estudo desenvolvimento web full-stack na Trybe. Tenho novas stacks no radar para aprender e desejo por isso em prática na sequência, afinal, conhecimento nunca é de mais e os desafios não podem parar.
+    📚️ Atualmente estudo na Trybe e também tenho novas stacks no radar para aprender, desejo por isso em prática na sequência, afinal, conhecimento nunca é de mais e os desafios não podem parar.
   </p>
 </section>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+
+</br>
 
 <section>
   <h2 align="start">💻️ Tecnologias e Ferramentas:</h2>
@@ -98,16 +100,14 @@
   </div>
 </section>
 
-</br>
-
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+</br>
 
 <section align="start">
   <h2 align="start">📊 Minhas estatísticas: </h2>
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" />
   <img width=377 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=6&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" />
 </section>
-
-</br>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
