@@ -46,7 +46,7 @@
 </br>
 
 <section>
-  <h2 align="start">💻️ Tecnologias e Ferramentas:</h2>
+  <h2 align="start">💻️ Tecnologias e ferramentas:</h2>
   <div align="start">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
