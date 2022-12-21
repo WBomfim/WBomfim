@@ -103,8 +103,8 @@
 
 <section align="start">
   <h2 align="start">📊 Minhas estatísticas: </h2>
-  <img width=475 src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" />
-  <img width=345 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=10&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" />
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=wbomfim&count_private=true&show_icons=true&theme=highcontrast" alt="wbomfim" />
+  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs?username=wbomfim&langs_count=10&show_icons=true&layout=compact&theme=highcontrast" alt="wbomfim" />
 </section>
 
 </br>
