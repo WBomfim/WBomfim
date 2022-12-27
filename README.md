@@ -29,13 +29,13 @@
     👨‍💻 Sou apaixonado por tecnologia, e foi nela que encontrei a motivação para estar sempre aprendendo, aplicando coisas novas e vivendo uma nova experiência a cada dia.
     <br />
     <br />
-    🗣️ Gosto e estou sempre aberto a novos aprendizados e desafios, tenho muita satisfação em superá-los e me sinto motivado ao me comprometer com algo desafiador. Sou pró-ativo, criativo, direto e dinâmico, tenho boa comunicação e me relaciono muito bem com as pessoas, assumo a liderança sempre que necessário e busco estabelecer relações de confiança com todos a minha volta. 
+    🗣️ Gosto e estou sempre aberto a novos aprendizados e desafios, tenho muita satisfação em superá-los e me sinto motivado ao me comprometer com algo desafiador. Sou pró-ativo, criativo, direto e dinâmico, tenho boa comunicação e me relaciono muito bem com as pessoas, gosto de assumir a liderança e busco estabelecer relações de confiança com todos a minha volta. . 
     <br />
     <br />
     🏋️‍♂️ Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida.
     <br />
     <br />
-    📚️ Atualmente estudo na Trybe e também tenho novas stacks no radar para aprender, desejo por isso em prática na sequência, afinal, conhecimento nunca é de mais e os desafios não podem parar.
+    📚️ Atualmente estou finalizando meus estudos na Trybe, tenho novas stacks no radar para aprender e desejo por isso em prática na sequência, afinal, conhecimento nunca é de mais e os desafios não podem parar.
   </p>
 </section>
 
