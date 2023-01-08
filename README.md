@@ -26,10 +26,10 @@
 <section>
   <h2 align="start">🙋‍♂️ Sobre mim: </h2>
   <p align="justify">
-    👨‍💻 Sou apaixonado por tecnologia e foi nela que encontrei a satisfação de viver uma nova experiência a cada dia, gosto das novidades e de me sentir desafiado a cada projeto, a programação me faz querer mais, é um ciclo de evolução constante que também nos faz evoluir.
+    👨‍💻 Sou apaixonado por tecnologia e foi nela que encontrei a satisfação de viver uma nova experiência a cada dia, gosto das novidades e de me sentir desafiado a cada projeto, a programação me faz querer mais, é um ciclo de evolução constante que também me faz evoluir.
     <br />
     <br />
-    🗣️ Gosto e estou sempre aberto a novos aprendizados e desafios, tenho muita satisfação em superá-los e me sinto motivado ao me comprometer com algo desafiador. Sou pró-ativo, criativo, direto e dinâmico, tenho boa comunicação e me relaciono muito bem com as pessoas, gosto de assumir a liderança e busco estabelecer relações de confiança com todos a minha volta. . 
+    🗣️ Sou pró-ativo, criativo, direto e dinâmico, tenho boa comunicação e me relaciono muito bem com as pessoas, gosto de assumir a liderança e busco estabelecer relações de confiança com todos a minha volta. Sempre estou aberto a novos desafios e aprendizados, tenho muita satisfação em superá-los e me sinto motivado ao me comprometer com algo desafiador.
     <br />
     <br />
     🏋️‍♂️ Acredito que com foco e dedicação todos os objetivos podem ser alcançados e busco sempre estar evoluindo para entregar o meu melhor em todas as áreas da minha vida. Sei que sonhar é importante, mas nada supera os pés no chão dando um passo de cada vez, isso é o que realmente nos põem mais próximos dos nossos objetivos.
